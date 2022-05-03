@@ -1,0 +1,5 @@
+node_modules/
+.env
+#mail-server/server.js
+
+.vercel
